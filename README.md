@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riponalmamun&label=Profile%20views&color=0e75b6&style=flat" alt="riponalmamun" /> </p>
 
-- 🌱 I’m currently learning **Python,Machine Learning,Deep Learning And Also Learn HTML5,CSS3,JS Etc**
+- 🌱 I’m currently learning **Python,Machine Learning,Deep Learning And Also Learn HTML5,CSS3,JS,Learning new things Etc**
 
 - 📫 How to reach me **riponalmamunrasel@gmail.com**
 
