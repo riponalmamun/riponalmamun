@@ -7,8 +7,12 @@
   
   <!-- Typing Animation with Multiple Lines -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38F77F&center=true&vCenter=true&repeat=true&width=800&height=100&lines=👋+Welcome+to+My+GitHub+Profile!;🤖+AI+Developer+%40+SM+Technology;🔬+Passionate+About+Machine+Learning;🧠+Building+Intelligent+Systems;🚀+Exploring+Agentic+AI+%26+LLMs;💡+Let's+Innovate+Together!" alt="Typing SVG" />
+
   
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 
 <br>
 
@@ -24,6 +28,7 @@
   <img src="https://img.shields.io/badge/🏢_Company-SM_Technology-purple?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/🔬_Focus-Agentic_AI_&_LLMs-yellow?style=for-the-badge&labelColor=1a1b27" />
 </p>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
