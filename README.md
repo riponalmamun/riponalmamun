@@ -35,13 +35,15 @@
 
 <!-- Profile Counters with Real-time Updates -->
 <!-- Profile Counters with Real-time Updates -->
+<!-- Profile Counters with Real-time Updates -->
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=riponalmamun&label=Profile%20Views&color=0e75b6&style=for-the-badge)
   ![GitHub followers](https://img.shields.io/github/followers/riponalmamun?label=Followers&style=for-the-badge&color=blue)
   ![GitHub Stars](https://img.shields.io/github/stars/riponalmamun?label=Total%20Stars&style=for-the-badge&color=yellow)
-  ![Years Badge](https://badges.pufler.dev/years/riponalmamun?style=for-the-badge&color=green)
-  ![Repos Badge](https://badges.pufler.dev/repos/riponalmamun?style=for-the-badge&color=red)
+  ![GitHub User's stars](https://img.shields.io/github/stars/riponalmamun?affiliations=OWNER&style=for-the-badge&label=Total%20Repos%20Stars&color=yellow)
+  ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/riponalmamun&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=red)
+  ![Created](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/riponalmamun&label=Member%20Since&query=$.created_at&style=for-the-badge&color=green&prefix=GitHub%20)
 
 </div>
 
