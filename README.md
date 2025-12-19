@@ -319,9 +319,7 @@ class RiponAlMamun:
 <!-- Contribution Heatmap -->
 <h2 align="center">🔥 Contribution Heatmap</h2>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/riponalmamun" alt="GitHub Contribution Chart" width="90%"/>
-</div>
+
 
 <p align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/riponalmamun?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30" width="90%"/>
