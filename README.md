@@ -240,47 +240,30 @@ class RiponAlMamun:
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riponalmamun&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&stroke=F85D7F)](https://github.com/riponalmamun)
+<img src="https://streak-stats.demolab.com?user=riponalmamun&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
   
 </div>
-
 <br>
-
 <p align="center">
-  <a href="https://github.com/riponalmamun">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riponalmamun&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-  </a>
-  <a href="https://github.com/riponalmamun">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riponalmamun&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riponalmamun&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponalmamun&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&cache_seconds=1800"/>
 </p>
-
 <br>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riponalmamun&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" width="95%" alt="Trophy"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riponalmamun&theme=radical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
 </p>
-
-<details align="center">
-<summary><b>📈 Click to View More Analytics</b></summary>
 <br>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riponalmamun&theme=radical" width="90%" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riponalmamun&theme=radical" width="90%"/>
 </p>
-
+<br>
 <p align="center">
-  <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riponalmamun&theme=radical"/>
-  <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riponalmamun&theme=radical"/>
-  <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riponalmamun&theme=radical&utcOffset=6"/>
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riponalmamun&theme=radical"/>
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riponalmamun&theme=radical"/>
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riponalmamun&theme=radical&utcOffset=6"/>
 </p>
-
-</details>
-
----
 
 <h2 align="center">🏆 Achievements & Certifications</h2>
 
